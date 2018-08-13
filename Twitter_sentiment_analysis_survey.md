@@ -36,6 +36,7 @@
 
 ### 2. [Kaggle twitter-sentiment-analysis2](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)
 * 二分类数据： 大概有10万条短文本训练数据 （8MB）
+* 结果是1的一个子集
 
 ### 3. [Kaggle twitter-sentiment-analysis](https://www.kaggle.com/c/twitter-sentiment-analysis/data)
 * 二分类数据， 数据量好像很大 （train: 100MB, test: 22MB）
