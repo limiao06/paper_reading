@@ -1,5 +1,9 @@
 ## Github Projects
 
+### 0. [Awesome Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis):
+* laugustyniak 总结的情感分析相关的数据、系统和论文
+* 可以参考
+
 ### 1. [Sentiment-Analysis-Twitter: by Ayush Pareek](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter):
 
 2016年左右的工作， 比较传统的NLP处理方法，包括：
@@ -25,22 +29,25 @@
 * 之前看过的论文，利用emoji数据预训练句子向量表示
 * 但是项目并没有公开大规模的twitter数据
 
-## Kaggle dataset
+## Dataset
 
-### 1. [twitter-sentiment-analysis](https://www.kaggle.com/c/twitter-sentiment-analysis/data)
-* 二分类数据， 数据量好像很大 （train: 100MB, test: 22MB）
-
-### 2. [twitter-sentiment-analysis2](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)
-* 二分类数据： 大概有10万条短文本训练数据 （8MB）
-
-### 3. [Twitter Analysis](https://www.kaggle.com/c/twitter-analysis/data)
-* 二分类数据： train 40MB, test: 23MB
-
-### 4. [twitter_sentiment](https://www.kaggle.com/ywang311/twitter-sentiment)
+### 1. [Kaggle twitter_sentiment](https://www.kaggle.com/ywang311/twitter-sentiment)
 * 二分类数据： train 56MB (大约有150多万条样本， 好像来自 sentiment140)
 
-### 5. [CS5228 Project 2](https://www.kaggle.com/c/cs5228-project-2/data)
+### 2. [Kaggle twitter-sentiment-analysis2](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)
+* 二分类数据： 大概有10万条短文本训练数据 （8MB）
+
+### 3. [Kaggle twitter-sentiment-analysis](https://www.kaggle.com/c/twitter-sentiment-analysis/data)
+* 二分类数据， 数据量好像很大 （train: 100MB, test: 22MB）
+* 无法下载
+
+### 4. [Kaggle Twitter Analysis](https://www.kaggle.com/c/twitter-analysis/data)
+* 二分类数据： train 40MB, test: 23MB
+* 无法下载
+
+### 5. [Kaggle CS5228 Project 2](https://www.kaggle.com/c/cs5228-project-2/data)
 * 二分类数据： 上面的github project也提到过 train 65MB, test 16MB 左右
+* 无法下载
 
 
 
