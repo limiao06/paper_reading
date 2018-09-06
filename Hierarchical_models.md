@@ -1,5 +1,5 @@
 
-### 1. [(2015 ACL) Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)
+### 1. [(2015 ACL) Hierarchical Attention Networks for Document Classification](http://www.aclweb.org/anthology/D15-1106)
 * 使用了两个RNN， 一个用于句子层次的编码，一个用于词层次的解码
 * 句子层次的编码RNN的输入是句子的BoW特征
 * 词层次的解码RNN输入包含前一句的sent_RNN的结果，隐状态，和前一时刻的输入
